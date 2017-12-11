@@ -20,8 +20,8 @@ public class FSBCore
         boolean appState;
         
         //Variables (Gameplay)
-        float attackPower,defensePower,Evasion;
-        int resourceFood,resourceStone,resourceTimber,resourceSilver;
+        float attackPower, defencePower, Evasion;
+        int resourceFood, resourceStone, resourceTimber, resourceSilver;
 
         //System
         for(appState == true)
