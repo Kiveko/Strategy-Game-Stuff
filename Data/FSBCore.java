@@ -12,8 +12,8 @@ public class FSBCore
         string userName, systemDebug;
         
         //Variables (Gameplay)
-        float attackPower,defensePower,Evasion;
-        int resourceFood,resourceStone,resourceTimber,resourceSilver;
+        float attackPower, defencePower, Evasion;
+        int resourceFood, resourceStone, resourceTimber, resourceSilver;
         
     }
 }
